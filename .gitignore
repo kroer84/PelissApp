@@ -243,3 +243,4 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,androidstudio,android,git,visualstudiocode
+app/src/main/java/com/kroer17/peliculas/utils/credenciales.kt
